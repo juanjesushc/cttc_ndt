@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except the app files
+!index.html
+!logo-cttc-claim.png
+!.gitignore
